@@ -22,3 +22,27 @@ Optional: Hast du eine Idee für eine Anwendung? Einfach mitbringen und in Rekor
 
 **David Höller**: Die User Experience meistern  
 Zwölf praktische Tipps für DeveloperInnen und DesingerInnen. Lektionen, die wir gelernt haben – auf die leichte und die harte Tour. Am Beispiel einer App für A1 und anderen. _Vortrag um 12 Uhr_.
+
+![](/uploads/2019/12/08/wieland.jpg)
+
+**Wieland Kloimstein**: [User-Centered Design für's Parlament](https://prezi.com/0luon9ojajjb/livestream-furs-parlament/)  
+Design einer Open Data Webapplikation für Livestreaming aus Parlament / Landtag / Gemeinden. Wireframing am Create Camp Wien. Research als Bürgerjournalist zum Thema "Medien und ihr Platz im Parlament". _Vortrag um 13 Uhr_.
+
+![](/uploads/2019/12/08/michael.jpg)
+
+**Michael Klein**: System-Performance als User Experience Katastrophe  
+Die Reaktionszeit eines Systems ist ein Aspekt, der oft übersehen wird. Er kann aber verheerende Auswirkungen auf die User Experience haben. Eine Analyse und Diskussion im Spannungsfeld zwischen Systemimplementierung und User Experience Design. _Vortrag um 15 Uhr_.
+
+![](/uploads/2019/12/08/max.png)
+
+**Max Scheugl**: [Mobile Web App Design - Wie man Bankkunden begeistert](https://dl.dropboxusercontent.com/u/6110835/UxWien-2013-MaxScheugl_MobileWebAppDesign.pdf) (PDF, 15MB)  
+Für die ING-DiBa entwarfen wir [ing.at](http://ing.at/). Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
+
+17 Uhr Gemeinsame Abfahrt zum Heurigen in Nußdorf
+
+Weitere Details:
+
+* Der Eintritt ist frei
+* Sei sozial: Liebe uns auf [Facebook](https://www.facebook.com/events/369337176521078), Xing, Google+, Lanyrd und mit [#uxwien](https://twitter.com/search/realtime?q=%23uxwien&src=hash)
+* Veranstaltet von Nofro.com [User Experience Design Wien](http://nofro.com/)
+* User Experience Wien Newsletter: [Jetzt gratis abonnieren](https://docs.google.com/spreadsheet/viewform?formkey=dDZpc3RoeXlmRlo3d0w3dXRQRV9lemc6MQ)
