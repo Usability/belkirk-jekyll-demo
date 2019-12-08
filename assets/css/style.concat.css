@@ -62,24 +62,6 @@ img {
 .u-margin-top-huge {
   margin-top: 10rem !important; }
 
-footer {
-  font-family: "Roboto", sans-serif;
-  max-width: 114rem;
-  margin: auto;
-  font-size: 1.4rem;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  padding: 2rem; }
-  footer a:link, footer a:visited {
-    text-transform: uppercase;
-    color: #000;
-    font-weight: 500;
-    transition: all .2s; }
-  footer a:hover {
-    color: #F8965C; }
-
 .row {
   max-width: 114rem;
   margin: auto; }
