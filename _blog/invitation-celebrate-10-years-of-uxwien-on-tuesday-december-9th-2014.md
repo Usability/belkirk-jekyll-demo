@@ -5,10 +5,9 @@ layout: post
 title: 'Invitation: Celebrate 10 years of UxWien on Tuesday, December 9th 2014'
 header-image: ''
 date: 2014-11-11T23:00:00.000+00:00
-published: false
 
 ---
-I would like to invite you to celebrate the 10th anniversary of UxWien (formerly known as Interaction Design Stammtisch Wien).
+I would like to invite you to celebrate the 10th anniversary of UxWien.
 
 WHEN  
 Tuesday, December 9th 2014 from 7pm to \~11pm
@@ -39,7 +38,6 @@ UxWien Sektor5 Meetup upon announcement. Sektor5 is a coworking space in the 5th
 **UxWien announcements are available here**
 
 * [http://meetup.com/uxwien](http://meetup.com/uxwien "http://meetup.com/uxwien")
-* [https://twitter.com/uxwien](https://twitter.com/uxwien "https://twitter.com/uxwien")
 * [https://facebook.com/uxwien](https://facebook.com/uxwien "https://facebook.com/uxwien")
 * Newsletter: [https://spreadsheets.google.com/viewform?formkey=dDZpc3RoeXlmRlo3d0w3dXRQRV9lemc6MQ&ifq](https://spreadsheets.google.com/viewform?formkey=dDZpc3RoeXlmRlo3d0w3dXRQRV9lemc6MQ&ifq "https://spreadsheets.google.com/viewform?formkey=dDZpc3RoeXlmRlo3d0w3dXRQRV9lemc6MQ&ifq")
 
