@@ -2,14 +2,15 @@
 tags: []
 title: User Experience Konferenz am 4. Mai 2013 in Wien
 header-image: "/uploads/2019/12/08/logo.png"
+datum: '2013-04-23 22:00:00 +0000'
 date: 2013-04-23T22:00:00.000+00:00
 layout: post
 
 ---
-_Meet Vienna's finest User Experience designers_. Eine Design-Konferenz mit einem Workshop und vier Vorträgen im Rahmen der Linuxwochen.
+_Meet Vienna's finest User Experience Designers_. Eine Design-Konferenz mit einem Workshop und vier Vorträgen im Rahmen der Linuxwochen.
 
 * Samstag, 4. Mai 2013 von 10 bis 17 Uhr
-* FH Technikum Wien, [Höchstädtplatz 6](http://www.technikum-wien.at/index.php?id=3056), 1200 Wien
+* FH Technikum Wien, Höchstädtplatz 6, 1200 Wien
 * Gebäude F (rollstuhlgerecht), Erdgeschoß, Hörsaal F0.02
 
 ![](/uploads/2019/12/08/claudia.jpg)
@@ -35,8 +36,8 @@ Die Reaktionszeit eines Systems ist ein Aspekt, der oft übersehen wird. Er kann
 
 ![](/uploads/2019/12/08/max.png)
 
-**Max Scheugl**: [Mobile Web App Design - Wie man Bankkunden begeistert](https://dl.dropboxusercontent.com/u/6110835/UxWien-2013-MaxScheugl_MobileWebAppDesign.pdf) (PDF, 15MB)  
-Für die ING-DiBa entwarfen wir [ing.at](http://ing.at/). Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
+**Max Scheugl**: Mobile Web App Design - Wie man Bankkunden begeistert  
+Für die ING Austria entwarfen wir die erste Mobile Banking App. Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
 
 17 Uhr Gemeinsame Abfahrt zum Heurigen in Nußdorf
 
