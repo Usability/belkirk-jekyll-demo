@@ -34,4 +34,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _blog/test.md
 - _blog/user-experience-konferenz-am-4-mai-2013-in-wien.md
