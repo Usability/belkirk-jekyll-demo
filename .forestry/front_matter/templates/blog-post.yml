@@ -33,6 +33,3 @@ fields:
   label: layout
   hidden: true
   default: post
-pages:
-- _blog/user-experience-konferenz-am-4-mai-2013-in-wien.md
-- _blog/test.md
