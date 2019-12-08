@@ -27,7 +27,7 @@ main {
     padding: 0 0 20rem;
     @include respond(tab-port) {
         max-width: 56rem;
-         }
+    }
 
          @include respond(phone) {
             padding: 0rem 2rem 10rem;
