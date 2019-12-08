@@ -26,5 +26,12 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: post
 pages:
 - _blog/user-experience-konferenz-am-4-mai-2013-in-wien.md
