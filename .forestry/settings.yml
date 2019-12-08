@@ -13,7 +13,7 @@ sections:
   - landing-page
   - blog-post
 - type: directory
-  path: _blog
+  path: ''
   label: Blog posts
   create: all
   match: "*"
