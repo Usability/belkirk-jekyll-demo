@@ -1,0 +1,152 @@
+.main-nav {
+    padding: 3rem 0;
+    background-color: rgba(229, 229, 229, 0.34);
+
+    @include respond(phone) {
+        padding: 0;
+    }
+
+    img {
+        width: 5rem;
+        position: relative;
+        float: left;
+        margin-left:-6rem;
+        top: -1.3rem;
+
+        @include respond(phone) {
+            margin: 0;
+             }
+    }
+    &-inner {
+        max-width: 96rem;
+        margin: auto;
+    }
+
+ul {
+    max-width: 96rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    @include respond(phone) {
+       width:auto;
+        }
+}
+.menu-item {
+    font-size: $default-font-size;
+    list-style: none;
+    color: #000;
+
+    &:nth-child(1) {
+        margin-right: auto;
+        a {
+        color: $color-primary;
+        &:hover {
+            color: darken($color-primary, 20%);
+        }
+    }
+    @include respond(phone) {
+    display: none;
+    }
+    
+    }
+
+    @media (min-width:768px) {
+    &:last-child {
+        margin-left: auto;
+        color: $color-primary;
+        a {
+            color: #fff;
+            background: $color-primary;
+            padding: 1rem 2rem;
+            &:hover {
+                background-color: darken($color-primary, 20%);
+                color:#fff;
+            }
+        }
+    }
+}
+
+
+    a {
+        padding: 1rem;
+        color:#000;
+        text-transform: uppercase;
+        transition: all .2s;
+
+        &:hover {
+            color: $color-primary;
+        }
+    }
+
+    }
+    
+}
+
+
+/* [ON BIG SCREEN] */
+/* Wrapper */
+#page-nav {
+    width: 100%;
+    background-color: rgba(229, 229, 229, 0.34);
+    /* If you want the navigation bar to stick on top
+    position: sticky;
+    top: 0;
+    */
+  }
+  
+  /* Hide Hamburger */
+  #page-nav label, #hamburger {
+    display: none;
+  }
+  
+  /* Menu Items */
+  #page-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+  }
+  #page-nav ul li {
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  #page-nav ul li a {
+    text-decoration: none;
+  }
+  
+  /* [ON SMALL SCREENS] */
+  @media screen and (max-width: 768px){
+
+    /* Show Hamburger */
+    #page-nav label {
+      display: inline-block;
+      font-style: normal;
+      font-size: 4rem;
+      padding: 10px;
+    }
+
+    .logo-nav {
+        display: none;
+    }
+  
+    /* Break down menu items into vertical */
+    #page-nav ul li {
+      display: block;
+    }
+    #page-nav ul li {
+      border-top: 1px solid #333;
+    }
+  
+    /* Toggle show/hide menu on checkbox click */
+    #page-nav ul {
+      display: none;
+    }
+    #page-nav input:checked ~ ul {
+      display: block;
+    }
+  }
+  
+
+    
+

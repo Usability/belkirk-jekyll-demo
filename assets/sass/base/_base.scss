@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    // This defines what 1rem is
+    font-size: 62.5%;
+
+    @include respond(phone) {
+        font-size: 60%;
+    }
+}
+
+body {
+    box-sizing: border-box;
+    position: relative;
+  min-height: 100vh;
+}
+
+main {
+    max-width: 96rem;
+    margin: auto;
+    padding: 0 0 20rem;
+    @include respond(tab-port) {
+        max-width: 56rem;
+         }
+
+         @include respond(phone) {
+            padding: 0rem 2rem 10rem;
+        }
+}
+
+img {
+    max-width: 100%;
+}
