@@ -10,14 +10,14 @@ defaults:
       layout: page
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: post
 collections:
   people:
     output: true
     permalink: "/about/:path/"
-  posts:
+  blog:
     output: true
   projects:
     output: true
