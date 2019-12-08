@@ -19,6 +19,7 @@ collections:
     permalink: "/about/:path/"
   blog:
     output: true
+    permalink: "/"
   projects:
     output: true
     permalink: "/projects/:path/"
