@@ -37,7 +37,7 @@ Die Reaktionszeit eines Systems ist ein Aspekt, der oft übersehen wird. Er kann
 ![](/uploads/2019/12/08/max.png)
 
 **Max Scheugl**: Mobile Web App Design - Wie man Bankkunden begeistert  
-Für die ING Austria entwarfen wir die erste Mobile Banking App. Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
+Für die ING-DiBa Austria entwarfen wir die erste Mobile Banking App. Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
 
 17 Uhr Gemeinsame Abfahrt zum Heurigen in Nußdorf
 
