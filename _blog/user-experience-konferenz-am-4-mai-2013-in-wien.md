@@ -26,7 +26,7 @@ Zwölf praktische Tipps für DeveloperInnen und DesingerInnen. Lektionen, die wi
 
 ![](/uploads/2019/12/08/wieland.jpg)
 
-**Wieland Kloimstein**: [User-Centered Design für's Parlament](https://prezi.com/0luon9ojajjb/livestream-furs-parlament/)  
+**Wieland Kloimstein**: [User-Centered Design für's Parlament](https://prezi.com/0luon9ojajjb/livestream-furs-parlament/) (Prezi Präsentation)  
 Design einer Open Data Webapplikation für Livestreaming aus Parlament / Landtag / Gemeinden. Wireframing am Create Camp Wien. Research als Bürgerjournalist zum Thema "Medien und ihr Platz im Parlament". _Vortrag um 13 Uhr_.
 
 ![](/uploads/2019/12/08/michael.jpg)
@@ -37,7 +37,7 @@ Die Reaktionszeit eines Systems ist ein Aspekt, der oft übersehen wird. Er kann
 ![](/uploads/2019/12/08/max.png)
 
 **Max Scheugl**: Mobile Web App Design - Wie man Bankkunden begeistert  
-Für die ING-DiBa Austria entwarfen wir die erste Mobile Banking App. Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
+Für die ING-DiBa Austria entwarfen wir die Mobile Banking App. Rückblickend wird das Projekt analysiert: Was ist gut / schlecht gelaufen? Welche Erfolge gibt es? Welche Fehler können in Zukunft vermieden werden? Themen: Akquise, Preiskalkulation, Research, Prototyping, Usability-Testing und Mobile-Banking-Erkenntnisse. _Vortrag um 16 Uhr_.
 
 17 Uhr Gemeinsame Abfahrt zum Heurigen in Nußdorf
 
