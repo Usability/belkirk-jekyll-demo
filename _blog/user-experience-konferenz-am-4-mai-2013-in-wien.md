@@ -3,7 +3,6 @@ tags: []
 title: User Experience Konferenz am 4. Mai 2013 in Wien
 header-image: "/uploads/2019/12/08/logo.png"
 datum: 2013-04-23T22:00:00.000+00:00
-published: false
 
 ---
 _Meet Vienna's finest User Experience designers_. Eine Design-Konferenz mit einem Workshop und vier Vorträgen im Rahmen der Linuxwochen.
