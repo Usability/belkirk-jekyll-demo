@@ -7,10 +7,10 @@ date: 2013-04-23T22:00:00.000+00:00
 layout: post
 
 ---
-_Meet Vienna's finest User Experience designers_. Eine Design-Konferenz mit einem Workshop und vier Vorträgen im Rahmen der Linuxwochen.
+_Meet Vienna's finest User Experience Designers_. Eine Design-Konferenz mit einem Workshop und vier Vorträgen im Rahmen der Linuxwochen.
 
 * Samstag, 4. Mai 2013 von 10 bis 17 Uhr
-* FH Technikum Wien, [Höchstädtplatz 6](http://www.technikum-wien.at/index.php?id=3056), 1200 Wien
+* FH Technikum Wien, Höchstädtplatz 6, 1200 Wien
 * Gebäude F (rollstuhlgerecht), Erdgeschoß, Hörsaal F0.02
 
 ![](/uploads/2019/12/08/claudia.jpg)
