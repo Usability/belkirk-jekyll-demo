@@ -13,7 +13,7 @@ sections:
   - blog-post
 - type: directory
   path: ''
-  label: posts
+  label: pages
   create: all
   match: "*"
   templates:
