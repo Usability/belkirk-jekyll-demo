@@ -33,3 +33,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- posts.md
